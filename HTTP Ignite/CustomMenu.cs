@@ -12,7 +12,7 @@
         public CustomMenu(Ignite ignite)
         {
             obj = ignite;
-            menu = new Menu("Ignite#", "ignite", true);
+            menu = new Menu("점화", "ignite", true);
 
             Load(ignite);
         }
