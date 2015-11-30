@@ -4,7 +4,7 @@ using System.Linq;
 using System.Runtime.CompilerServices;
 using LeagueSharp;
 using LeagueSharp.Common;
-using ScienceDinger;
+using HttpDinger;
 using SharpDX;
 using SharpDX.Direct3D9;
 using Color = System.Drawing.Color;
