@@ -1,1 +1,2 @@
 C:\Users\Mock\Desktop\HttpDinger\bin\Release\ScientificHeimerdinger.exe.config
+C:\Users\Mock\Documents\GitHub\LeagueSharp\HTTP Dinger\bin\Release\ScientificHeimerdinger.exe.config
